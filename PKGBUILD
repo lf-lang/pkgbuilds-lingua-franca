@@ -3,7 +3,7 @@
 pkgname=lf-cli-nightly-bin
 pkgver=20230810050244
 pkgrel=1
-pkgdesc="The Lingua Franca compiler and command line tools"
+pkgdesc="The Lingua Franca compiler and command line tools (nightly release)"
 arch=('x86_64')
 url="https://lf-lang.org"
 license=('BSD')
