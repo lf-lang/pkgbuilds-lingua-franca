@@ -1,5 +1,5 @@
 pkgbase = lf-cli-nightly-bin
-	pkgdesc = The Lingua Franca compiler and command line tools
+	pkgdesc = The Lingua Franca compiler and command line tools (nightly release)
 	pkgver = 20230810050244
 	pkgrel = 1
 	url = https://lf-lang.org
