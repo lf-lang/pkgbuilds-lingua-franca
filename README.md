@@ -6,6 +6,7 @@ To update a package that is already within this monorepo, simply make and commit
 ```
 git subtree push --prefix=<pkgname> ssh://aur@aur.archlinux.org/<pkgname>.git master
 ```
+Alternatively, you can use the `push_all.sh` script in this repo to push all packages.
 
 Note that you need to be the maintainer of the package and authenticate via ssh in order to push the package updates to the AUR.
 
